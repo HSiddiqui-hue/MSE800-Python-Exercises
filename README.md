@@ -1,8 +1,3 @@
-# MSE800 – Python Exercises
-
-This repository contains all weekly Python activities for the MSE800 (Master of Software Engineering) course.  
-Each week is organised into its own folder with clearly named files for each activity.
-
 # MSE800 – Python Exercises  
 This repository contains all Python activities for **Week 1 and Week 2** of the MSE800 (Master of Software Engineering) course.  
 The tasks include data types, gross pay calculation, recursion, debugging, and requirements management.
