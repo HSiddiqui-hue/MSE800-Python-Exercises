@@ -1,21 +1,7 @@
 # MSE800 – Python Exercises  
-This repository contains all Python activities for **Week 1 and Week 2** of the MSE800 (Master of Software Engineering) course.  
-The tasks include data types, gross pay calculation, recursion, debugging, and requirements management.
+This repository contains all Python activities for **Week 1 and Week 2** of the MSE800 (Master of Software Engineering) course.
 
-## Folder Structure
-MSE800-Python-Exercises/
-│
-├── Week1_and_Week2/
-│ ├── W1_A1_multi_type_profile.py
-│ ├── W1_A2_gross_pay.py
-│ ├── W1_A3_fib_factorial_loop.py
-│ ├── W1_A3_fib_factorial_math.py
-│ ├── W2_A1_recursive_fib_factorial.py
-│ ├── W2_A1_recursive_fib_Debug_factorial.py
-│ ├── W2_A2_debug_fact_rec.py
-│ ├── requirements.txt
-│
-└── README.md
+The tasks include data types, gross pay calculation, recursion, debugging, and requirements management.
 
 ## Python Environments Used
 
