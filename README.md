@@ -1,2 +1,7 @@
-# Multi Type Profile W1
-This project demonstrates basic Python data types including String, Integer, List, Tuple, Dictionary, and Set. The script prints a simple table showing each data type with example values. Inline comments explain the purpose and usage of each type. This activity builds foundational Python skills for future coursework.
+# MSE800 – Python Exercises
+
+This repository contains all weekly Python activities for the MSE800 (Master of Software Engineering) course.  
+Each week is organised into its own folder with clearly named files for each activity.
+
+
+
