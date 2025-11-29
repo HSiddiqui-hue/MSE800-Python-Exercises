@@ -62,6 +62,16 @@ Used to:
 1. Open terminal  
 2. Activate environment:
 
+## GitHub Workflow  
+- All work performed in VS Code linked to GitHub  
+- Commits are grouped by activity completion  
+- Repository will continue to grow as the course progresses  
+
+## Author  
+**Hassan Siddiqui**  
+Master of Software Engineering  
+Yoobee College of Creative Innovation  
+
 
 
 
